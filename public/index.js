@@ -73,7 +73,8 @@ function populateChart() {
             fill: true,
             backgroundColor: "#6666ff",
             data
-        }]
+        }
+      ]
     }
   });
 }
